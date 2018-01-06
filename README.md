@@ -1,4 +1,4 @@
-<label font-color="red">这是一个小帮助记忆零碎知识小工具.下载MemoryDogy.jar直接用(要有JRE环境)</label>
+<label font-color="red">这是一个帮助记忆零碎知识小工具,基于javaSE,下载MemoryDogy.jar直接用(要有JRE环境)</label>
 <hr>
 1.通过设置&nbsp问题<--->答案&nbsp,完成一组知识点的录入<br><br>
 2.知识点会根据录入的日期,按照遗忘曲线,将应该复习的知识点打乱,弹出复习提示框<br><br>
